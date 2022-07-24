@@ -10,6 +10,26 @@ oc adm prune images --keep-tag-revision=1 --confirm
 oc get secrets kube-apiserver-to-kubelet-signer -n openshift-kube-apiserver-operator -o yaml | grep tls.crt | awk '{ print $2}' | base64 -d > new_cert.crt && openssl x509 -text -noout -in new_cert.crt
 oc -n netdata patch daemonset netdata-slave -p '{"spec": {"template": {"spec": {"nodeSelector": {"non-existing": "true"}}}}}'
 ```
+## Json to create a jira issue/task by curl
+
+```
+$ cat asd.json
+{
+    "fields": {
+       "project":
+       {
+          "key": "DEVOPS"
+       },
+       "summary": "TEST",
+       "description": "Creating a task in Jira by curl",
+       "issuetype": {
+          "name": "Error"
+       }
+   }
+}
+
+curl -D- -k -u your_user:password -X POST -d @asd.json -H "Content-Type: application/json" https://jira.cloud.com/rest/api/2/issue/
+```
 
 ## Elasticsearch (old)
 

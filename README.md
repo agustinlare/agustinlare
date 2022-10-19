@@ -15,4 +15,5 @@ My repos are kinda messy but I'm pretty sure you can find something that might b
   <a href="https://github.com/agustinlare">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agustinlare&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustinlare&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustinlare&layout=compact&langs_count=7&theme=dracula"/>
 </div>

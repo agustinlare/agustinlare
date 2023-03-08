@@ -1,6 +1,5 @@
 # Hi, I’m Agustin from Argentina :argentina:
 
-I'm working at [Clave](https://clave.com) as a Devops/SRE
 I'm passionate about learning new skills to help the automatization of all kinds of things in any type of enviroments (like business or IoT).
 
 ## Some skils

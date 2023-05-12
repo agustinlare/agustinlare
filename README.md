@@ -4,7 +4,7 @@ I'm passionate about learning new skills to help the automatization of all kinds
 
 ## Some skils
 + Kubernetes Production since 2018 in all its flavors... bare-metal, EKS, Openshift, minikube, k3s
-+ AWS, Terraform, Docker, Ansible, Jenkins, Gitlab-CI
++ AWS, Terraform, Docker, Ansible, Pipelines, Gitlab-CI
 + Use python and bash for scripting
 + Sometimes I write applications or API's on Golang that are usefule for my daily rutine 
 

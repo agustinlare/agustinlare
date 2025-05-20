@@ -8,7 +8,7 @@ I'm passionate about learning new skills to help the automatization of all kinds
 + Use python and bash for scripting
 + Sometimes I write applications or API's on Golang that are usefule for my daily rutine
 
-My repos are kinda messy and most of my actual cool stuff is under confidential agreements... but I'm still trying to upload things I found myself using across multiple projects. I'm pretty sure you'll find something useful.
+My repos are kinda messy and most of my actual cool stuff is under NDA's... but I'm still trying to upload things I found myself using across multiple projects. I'm pretty sure you'll find something useful.
 
 <div align="center">
   <a href="https://github.com/agustinlare">

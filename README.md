@@ -3,7 +3,7 @@
 I'm passionate about learning new skills to help the automatization of all kinds of things in any type of enviroments (like business or IoT).
 
 ## Some skils
-+ Kubernetes Production since 2016 mostly on bare-metal, EKS, Openshift, minikube, k3s
++ Kubernetes Production since 2016 mostly on bare-metal, EKS, Openshift
 + AWS, Terraform, Docker, Ansible, Pipelines, Gitlab-CI, Tekton, ArgoCD, Github Actions
 + Use python and bash for scripting
 + Sometimes I write applications or API's on Golang that are usefule for my daily rutine
